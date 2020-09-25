@@ -1,7 +1,29 @@
 # UdacityAMAchatBot
-ChatBot development project for the Microsoft Azure Machine Learning Fellowship community.
+ChatBot development project for the Machine Learning Scholarship Program for Microsoft Azure community.
+
+The chatbot called Brendle Bot was developed by the #sg_ama_chatbot Study Group with more than 14 employees spread across all continents. 
+
+The initial scope of the project was for the chatbot to be able to answer questions asked in the Sessions of the AMA channel, whose target audience was 10,000 participants of the Machine Learning Scholarship Program for Microsoft Azure. For this, a transcript of one of the clean and clean data batches was used.
+
+The solution was implemented using Azure Cloud, especially the cognitive services of Bot, Luis and QnA Maker Framework. 
+
+The project was implemented in 4 Sprints: 
+Sprint 1: QnA knowledge base from AMA 
+Session Sprint 2: Language Understanding (LUIS) 
+Sprint 3: Build and Publish a bot 
+Sprint 4: Creation and cleaning of Knowledge Bases: AMA Session, Lessons from the Introduction to ML course in Azure; General knowledge and resources about ML.
+
+In the 4th Sprint, the project suffered an amplification of the scope with the arrival of new collaborators who developed complementary knowledge bases on Concetiso and Machine Learning Resources and, also, on the lessons of the Course of Introduction to Machine Learning in Azure. 
+
+The bot was published in 3 channels: email brendlakbot@outlook.com, Facebook Messenger and Telegram App.
 
 Please head over to the markdown files directory to see the step-by-step implementation process! 
+
+
+
+
+These were the employees who joined the ChatBot implementation team:
+
 This is the project team responsible for implementing the AMA ChatBot:
 - Anderson Soares Furtado Oliveira :Brazil: https://www.linkedin.com/in/andersonfurtado/
 - Lucas de Andrade :Brazil: https://www.linkedin.com/in/lucasdeandrade/
@@ -16,3 +38,4 @@ This is the project team responsible for implementing the AMA ChatBot:
 - Ruthu S Sanketh  :India: https://www.linkedin.com/in/ruthu-s-sanketh/
 - Rohan Smith :USA: https://www.linkedin.com/in/rohan-smith-84bb17188/
 - Paola Pizutti :Brazil: https://www.linkedin.com/in/paolapizutti
+- Mahesh :India: https://www.linkedin.com/in/maheshc-/
